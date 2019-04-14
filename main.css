@@ -1,0 +1,19 @@
+p{
+	font-size: 25px;
+	font-family: Gill Sans Extrabold, cursive;
+	color: 
+}
+img{
+	width: 480px;
+	height: 450px;
+}
+#box{
+	margin: auto;
+	width: 50%;
+	padding: 30px;
+	background-color: white;
+
+}
+body{
+	background-color: pink;
+}
